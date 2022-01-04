@@ -62,6 +62,13 @@ body {
     overflow-x: hidden;
 }
 
+
+
+  
+  
+  
+    
+
 .row {
     max-width: var(--container-max-width);
     margin: 0 auto;
@@ -117,9 +124,9 @@ h2{
     text-shadow: 0 0 7px #fff,
     0 0 10px #fff,
     0 0 21px #fff,
-    0 0 42px #ec14c8,
+    0 0 42px #f866e0,
    
-    0 0 102px #ec14c8;
+    0 0 60px #f866e0;
    
 }
 
