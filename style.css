@@ -689,7 +689,11 @@ body:not(.user-is-tabbing) a:focus {
 
 /**-----Technologies---**/
 .technologies{
-    background: #07252d;
+    
+    background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
+    url('./images/techpic.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .tech{
